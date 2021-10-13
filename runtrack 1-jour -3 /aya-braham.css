@@ -1,0 +1,13 @@
+body{ 
+	background-image: url('ino.jpg');
+	background-attachment: fixed;
+    background-position: center;
+	}
+		h1{ color: goldenrod; font-weight: bold;text-align: center; }
+		li{ color: white;}
+		h2{ color: purple;}
+		h3{ color: pink;}
+		table{
+			width: 80%;
+			table-layout: auto;
+		}
